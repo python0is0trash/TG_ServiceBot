@@ -1,7 +1,7 @@
 import telebot
 from datetime import date
 
-bot = telebot.TeleBot('6610820980:AAEDMxG7oeVglBRxot5G_Nwne004mYX3va4')
+bot = telebot.TeleBot('TOKEN')
 
 
 class User:
