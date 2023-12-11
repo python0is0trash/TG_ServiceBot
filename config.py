@@ -13,9 +13,6 @@ class User:
         self.excel_schedule_file_name = ''
         self.groups_in_xlsx_save = []
         self.is_subscribe_to_schedule = False
-        # self.is_button_pressed = False
-        # self.user_id = 0
-        # self.user_first_name = ''
         self.data_set = []
 
         self.update_user_list = []
